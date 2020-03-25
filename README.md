@@ -19,10 +19,10 @@ We have the following speakers presenting:
 
 All times here are listed in CEST.
 
-1800-1815 DuPSUG Annoucements – [Jaap Brasser](https://twitter.com/jaap_brasser)
-1815-1915 PowerShell 7 – [Sydney Smith](https://twitter.com/sydneysmithreal)
-1915-2000 What is new in PowerShell 7 – [Ben Gelens](https://twitter.com/bgelens)
-2000-2045 PowerShell (7) – Tips, Tricks & Customizations – [Jeff Wouters](https://twitter.com/JeffWouters)
+* 1800-1815 - DuPSUG Annoucements – [Jaap Brasser](https://twitter.com/jaap_brasser)
+* 1815-1915 - PowerShell 7 – [Sydney Smith](https://twitter.com/sydneysmithreal)
+* 1915-2000 - What is new in PowerShell 7 – [Ben Gelens](https://twitter.com/bgelens)
+* 2000-2045 - PowerShell (7) – Tips, Tricks & Customizations – [Jeff Wouters](https://twitter.com/JeffWouters)
 
 ## Location
 
