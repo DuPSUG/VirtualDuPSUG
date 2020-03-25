@@ -1,2 +1,3 @@
-# VirtualDuPSUG
-Virtual DuPSUG – All about PowerShell 7
+# Virtual DuPSUG – All about PowerShell 7
+
+
