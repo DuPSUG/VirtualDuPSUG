@@ -10,9 +10,9 @@ This event will be focused on new functionality in PowerShell 7 and PowerShell C
 
 We have the following speakers presenting:
 
-* Sydney Smith – Program Manager at The Microsoft PowerShell Team
-* Ben Gelens – Consultant at Wortell
-* Jeff Wouters – Consultant & Founder at Methos
+* [Sydney Smith](https://twitter.com/sydneysmithreal) – Program Manager at The Microsoft PowerShell Team
+* [Ben Gelens](https://twitter.com/bgelens) – Consultant at Wortell
+* [Jeff Wouters](https://twitter.com/JeffWouters) – Consultant & Founder at Methos
  
 
 ## Agenda
